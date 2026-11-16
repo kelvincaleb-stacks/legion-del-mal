@@ -10,7 +10,9 @@
 
 
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde Local
+
+### Es una ficha del ADSO aprendiendo Git y GitHub
 
 
 
